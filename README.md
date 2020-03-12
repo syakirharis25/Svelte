@@ -10,7 +10,7 @@ My works related to Svelte JavaScript framework.
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="ecma-logo.jpg" height="110"> 
+<img src="svelte.png" height="110"> 
 Svelte is a free and open-source JavaScript framework written by Rich Harris. Svelte applications do not include framework references. Instead, building a Svelte applications generates code to manipulate the DOM, which may give better client run-time performance. Svelte has its own compiler for converting app code into client-side JavaScript at build time. It is written in TypeScript. The Svelte source code is licensed under MIT License and hosted on GitHub.
 
 <a name="references"></a>
